@@ -1,4 +1,5 @@
 .env
+venv
 text_paper*
 podcast_*
 __pycache__/*
